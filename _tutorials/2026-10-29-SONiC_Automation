@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: SONiC Automation guide
 author: Suhaib Ahmad
 excerpt: Learn how to build automation workflows with SONiC
@@ -9,7 +9,7 @@ tags:
   - sonic
   - Cisco 8000
 permalink: /tutorials/application-hosting-with-appmgr
-position: top
+position: hidden
 ---
 {% include base_path %}
 {% include toc icon="table" title="SONiC_Automation" %}
