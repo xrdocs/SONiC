@@ -1,5 +1,6 @@
 ---
 published: true
+date: 2026-10-29 11:28 -0700
 title: SONiC Automation guide
 author: Suhaib Ahmad
 excerpt: Learn how to build automation workflows with SONiC
