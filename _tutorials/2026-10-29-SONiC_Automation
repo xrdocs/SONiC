@@ -8,7 +8,6 @@ tags:
   - cisco
   - sonic
   - Cisco 8000
-permalink: /tutorials/application-hosting-with-appmgr
 position: hidden
 ---
 {% include base_path %}
