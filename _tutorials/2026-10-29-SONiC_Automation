@@ -11,3 +11,5 @@ tags:
 permalink: /tutorials/application-hosting-with-appmgr
 position: top
 ---
+{% include base_path %}
+{% include toc icon="table" title="SONiC_Automation" %}
