@@ -3,6 +3,7 @@ published: true
 title: SONiC Automation guide
 author: Suhaib Ahmad
 excerpt: Learn how to build automation workflows with SONiC
+permalink: /tutorials/SONiC_Automation
 tags:
   - SONiC
   - cisco
