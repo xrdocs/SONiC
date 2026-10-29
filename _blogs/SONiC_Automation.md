@@ -10,7 +10,7 @@ tags:
   - cisco
   - sonic
   - Cisco 8000
-position: top
+position: hidden
 ---
 {% include base_path %}
 {% include toc icon="table" title="SONiC_Automation" %}
